@@ -10,7 +10,5 @@ Unity implementation of Fur-rendering based on multiple layers
 
 Unity Version：2022.3.40f1c1
 
-|![image](pic/Fur1.gif)|
-|:---:|
-|![image](pic/Fur2.png)|
-|:---:|
+![image](pic/Fur1.gif)
+![image](pic/Fur2.png)
